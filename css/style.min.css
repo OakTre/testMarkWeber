@@ -774,6 +774,15 @@ a {
     height: 112px;
   }
 
+  .hero .hero-bg-wrap2 {
+    width: 526px;
+  }
+
+  .hero__pc {
+    width: 526px;
+    height: 627px;
+  }
+
   .hero__bg {
     height: 795px;
   }
